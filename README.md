@@ -1,0 +1,2 @@
+# LearnFromBasic
+My practise project :)
